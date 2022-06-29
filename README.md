@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **katrina-l-hill/katrina-l-hill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hello! 👋 My name's Katrina Hill. Welcome to my page :blush:
+
+I'm a Full-Stack Software Developer with a background in environmental compliance, enforcement, and management. I’m also a Navy veteran with five years’ experience as an IT Network Administrator. I'm still passionate about environmental science and want to combine my experience in that field with my new software development career. I feel that the skills I've learned from both careers will allow me to positively contribute to an organization’s mission and values.
+
