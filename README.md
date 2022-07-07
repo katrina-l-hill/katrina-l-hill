@@ -21,7 +21,7 @@ I'm a Full-Stack Software Developer with a background in environmental complianc
 
 |  |  |  |  |
 | ----------- | ----------- | ----------- | ----------- |
-<img src="assets/python.png" width=70/> | <img src="assets/js.png" width=70/> | <img src="assets/html.png" width=70/> | <img src="assets/css.png" width=70/> |
+<img src="assets/python.jpg" width=70/> | <img src="assets/javascript.png" width=70/> | <img src="assets/html.png" width=70/> | <img src="assets/css.png" width=70/> |
 |  |  |  |  |
 
 ## Projects
@@ -52,14 +52,19 @@ ___
 
 | | | |
 | ----------- | ----------- | ----------- |
-| <img src="assets/mongo.png" width=50/> MongoDB | <img src="assets/react.png" width=50/> React | <img src="assets/vscode.png" width=50/> Visual Studio Code | <img src="assets/windows.png" width=50/> WindowsOS |
-| <img src="assets/git.png" width=50/> Git | <img src="assets/github.png" width=50/> Github | <img src="assets/linux.png" width=50/> Linux |
-| <img src="assets/node.png" width=50/> Nodejs | <img src="assets/mongo.png" width=50/> MongoDB | <img src="assets/ExpressJS-logo.png" width=50/> Expressjs |
-|<img src= "assets/next-js.png" width=50> NextJS |<img src="assets/django.png" width=50> Django | <img src="assets/docker.png" width=50> Docker |
-|<img src="assets/vercel.png" width=50> Vercel | <img src="assets/netlify.png" width=50/> Netlify | <img src="assets/heroku.jpg" width=50> Heroku  | 
-|<img src="assets/vercel.png" width=50> Vercel | <img src="assets/netlify.png" width=50/> Netlify | <img src="assets/heroku.jpg" width=50> Heroku  | 
-|<img src="assets/vercel.png" width=50> Vercel | <img src="assets/netlify.png" width=50/> Netlify | <img src="assets/heroku.jpg" width=50> Heroku  | 
-|<img src="assets/vercel.png" width=50> Vercel | <img src="assets/netlify.png" width=50/> Netlify | <img src="assets/heroku.jpg" width=50> Heroku  | 
+| <img src="assets/mongodb.png" width=50/> MongoDB | <img src="assets/express.png" width=50/> Express.js | <img src="assets/reactjs.png" width=50/> React | <img src="assets/nextjs.png" width=50/> Next.js |
+| <img src="assets/nodejs.jpg" width=50/> Node.js | <img src="assets/django.png" width=50/> Django | <img src="assets/djangorest.png" width=50/> Django REST Framework |
+| <img src="assets/docker.jpg" width=50/> Docker | <img src="assets/OAuth.jpg" width=50/> OAuth | <img src="assets/auth0.jpg" width=50/> Auth0 |
+|<img src= "assets/axios.jpg" width=50> NextJS |<img src="assets/fastapi.jpg" width=50> FastAPI | <img src="assets/openCV.png" width=50> OpenCV |
+|<img src="assets/Chakra.png" width=50> Chakra UI | <img src="assets/vercel.png" width=50/> Vercel | <img src="assets/ElephantSQL.png" width=50> ElephantSQL | 
+|<img src="assets/postgresql.jpg" width=50> Vercel | <img src="assets/sqlite.png" width=50/> SQLite | <img src="assets/amazons3.jpg" width=50> AWS S3 | 
+|<img src="assets/jira.png" width=50> Jira | <img src="assets/matplotlib.png" width=50/> Matplotlib | <img src="assets/kaggle.png" width=50> Kaggle | 
+|<img src="assets/numpy.png" width=50> NumPy | <img src="assets/pandas.png" width=50/> Pandas | <img src="assets/scikit.png" width=50> Scikit-learn | 
+|<img src="assets/pyscript.png" width=50> PyScript | <img src="assets/pytest.png" width=50/> Pytest | <img src="assets/postman.png" width=50> Postman | 
+|<img src="assets/thunder-client.png" width=50> Thunder Client | <img src="assets/jquery.png" width=50/> jQuery | <img src="assets/ajax.png" width=50> Ajax | 
+|<img src="assets/git.png" width=50> Git | <img src="assets/github.png" width=50/> GitHub | <img src="assets/gunicorn.jpg" width=50> Gunicorn | 
+|<img src="assets/uvicorn.png" width=50> Uvicorn | <img src="assets/heroku.png" width=50/> Heroku | <img src="assets/netlify.jpg" width=50> Netlify | 
+|<img src="assets/trello.png" width=50> Trello | <img src="assets/vscode.png" width=50/> VS Code | <img src="assets/linux.jpg" width=50> Linux | 
 | | | |
 
 
