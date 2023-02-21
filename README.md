@@ -75,4 +75,4 @@ ___
 ___
 &nbsp; <img src="assets/linkedIn.png" width=20/> &nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/katrina-l-hill/)
 
-&nbsp; <img src="assets/gmail.jpg" width=20/> &nbsp;&nbsp; katrina.lenell.hill@gmail.com
+&nbsp; <img src="assets/gmail.jpg" width=20/> &nbsp;&nbsp; [katrina.lenell.hill@gmail.com](katrina.lenell.hill@gmail.com)
