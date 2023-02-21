@@ -42,7 +42,6 @@ ___
   - [Back-end Repo](https://github.com/Sawa-Sawa-CF/where-in-the-world-backend)
 - [Python and JavaScript Data Structures and Algorithms](https://github.com/katrina-l-hill/data-structures-and-algorithms)
    - This is a repository of my work solving code challenges using DSAs.
-___
   
 <br>
 
