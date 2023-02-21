@@ -15,37 +15,35 @@ Here are some ideas to get you started:
 
 # Hello! 👋 My name's Katrina Hill. Welcome to my page :blush:
 
-I'm a Full-Stack Software Developer with a background in environmental compliance, enforcement, and management. I’m also a Navy veteran with five years’ experience as an IT Network Administrator. I'm still passionate about environmental science and want to combine my experience in that field with my new software development career. I feel that the knowledge and skills I've learned from both careers will allow me to positively contribute to an organization’s mission and values.
+I'm a Full-Stack Software Developer and Navy Veteran with a background in government regulatory compliance management. Highly accomplished, solutions-focused professional with exceptional management skills in project and human resources. Seeking an opportunity to utilize my coding skills in the creation of meaningful software applications.
 
-## Languages
+## Programming Languages
 
-|  |  |  |  |
-| ----------- | ----------- | ----------- | ----------- |
-<img src="assets/python.jpg" width=70/> | <img src="assets/javascript.png" width=70/> | <img src="assets/html.png" width=70/> | <img src="assets/css.png" width=70/> |
+|  |  |  |  |  |
+| ----------- | ----------- | ----------- | ----------- | ----------- |
+<img src="assets/python.jpg" width=70/> | <img src="assets/java.jpg" width=60/> |<img src="assets/javascript.png" width=70/> | <img src="assets/html.png" width=70/> | <img src="assets/css.png" width=60/> |
 |  |  |  |  |
 
 ## Projects
 
 ___
-- Iro Iro
+- "Iro Iro" - Image Processing & Colorization
   - Used a computer vision/machine learning driven image colorization tool to process and manipulate images.
   - [Front-end Repo](https://github.com/North-Pac/hurricane-photo-frontend)
   - [Back-end Repo](https://github.com/North-Pac/ben-backend-test)
   - [Colorizer Repo](https://github.com/North-Pac/hurricane-colorizer)
-- PyGirl
+- "PyGirl" - Python Guessing Game
   - Developed a Python learning tool based on the “Hangman” guessing game that allows users to guess Python specific terminology.
   - [Front-end Repo](https://github.com/PieThonistas/pygirl_frontend)
   - [Back-end Repo](https://github.com/PieThonistas/PyGirl)
-- Where in the World
+- "Where in the World" - Travel and Adventure Application
   - Developed a MERN application that validates user credentials for third-party authorization through Auth0 built as a travel website.
   - [Front-end Repo](https://github.com/Sawa-Sawa-CF/where-in-the-world-frontend)
   - [Back-end Repo](https://github.com/Sawa-Sawa-CF/where-in-the-world-backend)
-- [Python and JavaScript Data Structures and Algorithms](https://github.com/katrina-l-hill/data-structures-and-algorithms)
-   - This is a repository of my work solving code challenges using DSAs.
   
 <br>
 
-## Tools
+## Software Tools
 
 | | | |
 | ----------- | ----------- | ----------- |
@@ -63,6 +61,17 @@ ___
 | <img src="assets/uvicorn.png" width=50> Uvicorn | <img src="assets/heroku.jpg" width=50/> Heroku | <img src="assets/netlify.png" width=50> Netlify 
 | <img src="assets/trello.jpg" width=50> Trello | <img src="assets/vscode.jpg" width=50/> VS Code | <img src="assets/linux.png" width=50> Linux | 
 | | | |
+
+<br>
+
+## Education
+
+___
+
+- Candidate for PCAPTM – Certified Associate in Python Programming Certification – IVMF Syracuse University                     Expected Completion  May 2023
+- Advanced Software Development with Python – Code Fellows, Seattle, WA
+- Master of Science: Natural Resource Policy & Administration – University of Florida, Gainesville, FL
+- Bachelor of Science: Environmental Sciences, Policy, and Management – University of Minnesota, Minneapolis, MN
 
 <br>
 
