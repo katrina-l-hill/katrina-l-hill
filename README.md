@@ -37,12 +37,9 @@ ___
   - [Front-end Repo](https://github.com/PieThonistas/pygirl_frontend)
   - [Back-end Repo](https://github.com/PieThonistas/PyGirl)
 - Where in the World
-  - Developed a MERN application that validates user credentials for third-party authorization through Auth0.
+  - Developed a MERN application that validates user credentials for third-party authorization through Auth0 built as a travel website.
   - [Front-end Repo](https://github.com/Sawa-Sawa-CF/where-in-the-world-frontend)
   - [Back-end Repo](https://github.com/Sawa-Sawa-CF/where-in-the-world-backend)
-- PetsRUs
-  - Created a pet adoption website designed to solve the problem of overcrowding in pet shelters. Added local storage and a constructor to pull out user input for pet selection into a shopping cart.
-  - [Repo](https://github.com/PetsRus/PetsRUs)
 - [Python and JavaScript Data Structures and Algorithms](https://github.com/katrina-l-hill/data-structures-and-algorithms)
    - This is a repository of my work solving code challenges using DSAs.
 ___
