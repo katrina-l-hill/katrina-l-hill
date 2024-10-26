@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Hello! 👋 My name's Katrina Hill. Welcome to my page :blush:
 
-I'm a Full-Stack Software Developer and Navy Veteran with a background in government regulatory compliance management. Highly accomplished, solutions-focused professional with exceptional management skills in project and human resources. Seeking an opportunity to utilize my coding skills in the creation of meaningful software applications.
+I'm a Full-Stack Software Developer and Navy Veteran with a background in environmental compliance management. Highly accomplished, solutions-focused professional with exceptional management skills in project and human resources. Seeking an opportunity to utilize my coding skills in the creation of meaningful software applications.
 
 ## Programming Languages
 
