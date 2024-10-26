@@ -68,7 +68,7 @@ ___
 
 ___
 
-- Bachelor of Applied Science: Application Development - North Seattle College, Seattle WA      Expected Completion  Fall 2025
+- Bachelor of Applied Science: Application Development - North Seattle College, Seattle WA                       Expected Completion  Fall 2025
 - Advanced Software Development with Python – Code Fellows, Seattle, WA
 - Master of Science: Natural Resource Policy & Administration – University of Florida, Gainesville, FL
 - Bachelor of Science: Environmental Sciences, Policy, and Management – University of Minnesota, Minneapolis, MN
