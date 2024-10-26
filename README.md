@@ -68,7 +68,7 @@ ___
 
 ___
 
-- Candidate for PCAPTM – Certified Associate in Python Programming Certification – IVMF Syracuse University                     Expected Completion  May 2023
+- Bachelor of Applied Science: Application Development - North Seattle College, Seattle WA      Expected Completion  Fall 2025
 - Advanced Software Development with Python – Code Fellows, Seattle, WA
 - Master of Science: Natural Resource Policy & Administration – University of Florida, Gainesville, FL
 - Bachelor of Science: Environmental Sciences, Policy, and Management – University of Minnesota, Minneapolis, MN
